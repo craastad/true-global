@@ -7,6 +7,12 @@ This is the `true-global` meta-repository containing analysis and documentation 
 - `pangia-pass` — SvelteKit web app (eSIM campaigns, subscriptions, affiliates)
 - `Pangia-Pass-Backend-Live` — Python backend (Flask/FastAPI, multi-provider eSIM, Stripe, analytics)
 
+## Critical Rules
+
+- **NEVER** create, close, comment on, or modify pull requests on GitHub for this repository or other repositories in this repo.
+- **NEVER** perform any write operations on GitHub (issues, PRs, releases, etc.) for true-global.
+- **ALWAYS** ask for explicit permission before running `git push`.
+
 ## Conventions
 
 ### File naming
