@@ -1,0 +1,7 @@
+# Sub-repositories (have their own git repos)
+/pangia-app/
+/pangia-pass/
+/Pangia-Pass-Backend-Live/
+
+# IDE
+.idea/
