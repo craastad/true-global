@@ -23,5 +23,10 @@ All documents in the `ai/` directory must be prefixed with `YYYY-MM-DD` (e.g., `
 ai/
 ├── pangia-app/           # Analysis docs for the mobile app
 ├── pangia-pass/          # Analysis docs for the web app
-└── Pangia-Pass-Backend-Live/  # Analysis docs for the backend
+├── Pangia-Pass-Backend-Live/  # Analysis docs for the backend
+└── reporting/            # Cumulative reports (no date prefix)
 ```
+
+## Daily Summary
+
+To generate a daily summary, ask Claude to "give me a daily summary". Workflow details and instructions are in `ai/reporting/CLAUDE.md`. Summaries are written to `ai/reporting/YYYY-MM-DD-daily-summary.md`.
