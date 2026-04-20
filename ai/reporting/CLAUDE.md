@@ -1,6 +1,7 @@
 # Reporting — Workflow Instructions
 
-Recurring reports live here. Files in `ai/reporting/` **do not** follow the `YYYY-MM-DD-` prefix convention used elsewhere in `ai/`, except for daily summaries which are inherently dated.
+⚠️ **Daily summaries are now saved to `pangia-ops`, not this repo.**
+Write daily summary files to `/Users/craastad/pangia/pangia-ops/dev/reporting/YYYY-MM-DD-daily-summary.md` and commit/push there.
 
 ## Daily Summary — `YYYY-MM-DD-daily-summary.md`
 
